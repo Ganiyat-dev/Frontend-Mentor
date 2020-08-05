@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.port": 5501,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "liveServer.settings.donotShowInfoMsg": true
+}
